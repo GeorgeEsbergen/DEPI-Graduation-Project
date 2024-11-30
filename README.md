@@ -67,13 +67,11 @@ Welcome to **Filmoria**, an innovative mobile application that revolutionizes th
 
 ---
 
-## 📱 **Screenshots**
+## 📱 **Demo**
 
 
 
 https://github.com/user-attachments/assets/a07084d7-f19c-4cd5-97de-c972ca5c4f59
-
-
 
 https://github.com/user-attachments/assets/b93fe18c-9069-4f3d-b324-297b330803ae
 
