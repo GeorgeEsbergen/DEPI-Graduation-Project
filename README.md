@@ -131,8 +131,6 @@ Omar Khilad Shepl Emara
 ##  📬 Contact 
 For questions or feedback, please reach out to us via:
 
-GitHub Issues
-
-Email : Abdulrahmanhishamk@gmail.com
+Email : georgeesbergen50@gmail.com
 
 We hope you enjoy Filmoria and find your next favorite movie! 🎬🍿
